@@ -1,0 +1,17 @@
+{
+  "name": "feefo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules\\.bin\\cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "cypress": "^6.2.1",
+    "mocha": "^8.2.1"
+  }
+}

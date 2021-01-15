@@ -1,0 +1,9 @@
+{
+  "QA_AUTOMATION": "QA Automation",
+  "location": {
+    "london": "London",
+    "postcode": "E13 8DU",
+    "belarus": "Belarus"
+  },
+  "body": "Fixtures are a great way to mock data for responses to routes"
+}
